@@ -48,7 +48,7 @@ ChatFlow is not just your ordinary chat application; it's an immersive, real-tim
 ## Usage
 - Once the application is running, open your web browser and navigate to http://localhost:3000 (or your specified port).
 - Sign up for a new account or log in if you already have one.
-- Start chatting with other users in real-time!
+- Start chatting with other users in real-time!!
 
 ## Contributing
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or create a pull request.
